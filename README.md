@@ -52,7 +52,7 @@
   </a>
 
   <!-- Resume -->
-  <a href="https://your-resume-url-here" target="_blank">
+  <a href="https://drive.google.com/file/d/1QqSvsPfWKlEHeMeX9A-yicC_BB2dV_At/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="resume link" />
   </a>
 
