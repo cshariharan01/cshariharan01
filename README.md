@@ -5,22 +5,13 @@
 
 <div align="center">
 
-  <!-- GitHub Stats -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=cshariharan01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"
-    height="150"
-    alt="Stats"
-  />
+  <!-- Contribution Streak Stats -->
+  [![GitHub Streak](https://streak-stats.demolab.com?user=cshariharan01&theme=tokyonight)](https://git.io/streak-stats)
 
-  <!-- Top Languages -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=cshariharan01&layout=compact&langs_count=6&theme=tokyonight&cache_seconds=1800"
-    height="150"
-    alt="Top Languages"
-  />
+  <!-- If github-readme-stats works -->
+  <img src="https://github-readme-stats.vercel.app/api?username=cshariharan01&show_icons=true&theme=radical" alt="GitHub Stats" />
 
 </div>
-
 
 ###
 
